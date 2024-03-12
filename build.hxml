@@ -1,0 +1,5 @@
+--neko "string seperator.n"
+-D HXCPP_M64
+-D analyzer-optimize
+-main Main
+--class-path src
